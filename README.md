@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amezcua04" alt="amezcua04" /></a> </p>
 
-- 🔭 I’m currently working on [Athena Pre-nomina](https://github.com/Amezcua04/Athena-Prenomina)
+- 🔭 I’m currently working on [CQSR](https://github.com/Amezcua04/CQSR)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **JAVA**
 
-- 🤝 I’m looking for help with [Athena Pre-nomina Frontend](https://github.com/Amezcua04/Athena-Prenomina)
+- 🤝 I’m looking for help with [CQSR](https://github.com/Amezcua04/CQSR)
 
-- 💬 Ask me about **C++, SQL, Java, JavaScript, PHP**
+- 💬 Ask me about **C++, C#, Sql**
 
 - 📫 How to reach me **amezcua041196@gmail.com**
 
